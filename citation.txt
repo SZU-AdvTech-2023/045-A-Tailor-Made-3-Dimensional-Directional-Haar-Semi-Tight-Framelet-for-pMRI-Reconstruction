@@ -1,0 +1,8 @@
+@article{REPO045,
+    author = "Li, Yan-Ran and Shen, Lixin and Zhuang, Xiaosheng",
+    journal = "Applied and Computational Harmonic Analysis",
+    pages = "446--470",
+    title = "{A Tailor-Made 3-Dimensional Directional Haar Semi-Tight Framelet for pMRI Reconstruction}",
+    volume = "60",
+    year = "2022"
+}
